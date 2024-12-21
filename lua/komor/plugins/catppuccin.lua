@@ -31,7 +31,7 @@ return {
 			},
 			mini = {
 				enabled = true,
-				indentscope_color = "", -- catppuccin color (eg. `lavender`) Default: text
+				indentscope_color = "lavender",
 			},
 			treesitter = true
 		})
